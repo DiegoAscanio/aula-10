@@ -221,7 +221,9 @@ $$
 
 ---
 ![bg opacity](./background.png)
-<iframe src="http://localhost:8888/notebooks/MST-IP.ipynb" width=100% height=100% ></iframe>
+<!--<iframe src="http://localhost:8888/notebooks/MST-IP.ipynb" width=100% height=100% ></iframe>-->
+<iframe src="https://mybinder.org/v2/gh/DiegoAscanio/aula-10/master?labpath=MST-IP.ipynb" width=100% height=100%></iframe>
+<a href="https://colab.research.google.com/github/DiegoAscanio/aula-10/blob/1f1d43a164ee295df924ddffb6231d7860439577/MST-IP.ipynb"><img src="https://mybinder.org/badge_logo.svg"/></a>
 
 ---
 <div class="cabecalho">
@@ -287,5 +289,7 @@ Pseudo Código - Algoritmo de Prim
 Resolução Árvore Geradora Mínima SciPy
 </div>
 <div class="conteudo">
-<iframe src="http://localhost:8888/notebooks/MST-SCIPY.ipynb" width=1000px height=450px ></iframe>
+<!--<iframe src="http://localhost:8888/notebooks/MST-SCIPY.ipynb" width=1000px height=450px ></iframe>-->
+<iframe src="https://mybinder.org/v2/gh/DiegoAscanio/aula-10/master?labpath=MST-SCIPY.ipynb" width=1000px height=400px></iframe>
+<a href="https://colab.research.google.com/github/DiegoAscanio/aula-10/blob/main/MST-SCIPY.ipynb"><img src="https://mybinder.org/badge_logo.svg"/></a>
 </div>
